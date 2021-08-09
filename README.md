@@ -1,2 +1,3 @@
-# linux-note
-linux-note
+# Headline
+
+> An awesome project.
