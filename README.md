@@ -36,7 +36,16 @@
   + [man COMMAND](http://linux.ixfosa.top/#/notes/06-帮助获取?id=man-command)
   + [info COMMAND](http://linux.ixfosa.top/#/notes/06-帮助获取?id=info-command)
   + [其他方式](http://linux.ixfosa.top/#/notes/06-帮助获取?id=其他方式)
-- [常用命令](http://linux.ixfosa.top/#/07-常用命令)
+- [常用命令](https://linux.ixfosa.top/#/notes/07-常用命令)
+  - [系统的关机、重启以及登出](https://linux.ixfosa.top/#/notes/07-常用命令?id=系统的关机、重启以及登出)
+  - [日期相关](https://linux.ixfosa.top/#/notes/07-常用命令?id=日期相关)
+  - [which](https://linux.ixfosa.top/#/notes/07-常用命令?id=which)
+  - [whereis-显示命令路径](https://linux.ixfosa.top/#/notes/07-常用命令?id=whereis-显示命令路径)
+  - [who-打印当前登录用户](https://linux.ixfosa.top/#/notes/07-常用命令?id=who-打印当前登录用户)
+  - [w-显示已登录用户](https://linux.ixfosa.top/#/notes/07-常用命令?id=w-显示已登录用户)
+  - [type-显示指定命令的类型](https://linux.ixfosa.top/#/notes/07-常用命令?id=type-显示指定命令的类型)
+  - [alias，unalias-命令别名](https://linux.ixfosa.top/#/notes/07-常用命令?id=alias，unalias-命令别名)
+  - [echo-回显](https://linux.ixfosa.top/#/notes/07-常用命令?id=echo-回显)
 - [其他命令](http://linux.ixfosa.top/#/notes/08-其他命令)
   + [install-复制文件和设置属性](http://linux.ixfosa.top/#/notes/08-其他命令?id=install-复制文件和设置属性)
   + [mktemp-建立暂存文件](http://linux.ixfosa.top/#/notes/08-其他命令?id=mktemp-建立暂存文件)
@@ -46,7 +55,15 @@
   + [ls-列出指定目录下的内容](http://linux.ixfosa.top/#/notes/09-目录管理?id=ls-列出指定目录下的内容)
   + [mkdir-创建目录](http://linux.ixfosa.top/#/notes/09-目录管理?id=mkdir-创建目录)
   + [rmdir-删除空目录](http://linux.ixfosa.top/#/notes/09-目录管理?id=rmdir-删除空目录)
-- 
+- [文件查看](https://linux.ixfosa.top/#/notes/10-文件查看)
+  - [cat-显示文件内容](https://linux.ixfosa.top/#/notes/10-文件查看?id=cat-显示文件内容)
+  - [tac-与cat输出相反](https://linux.ixfosa.top/#/notes/10-文件查看?id=tac-与cat输出相反)
+  - [head-查看文件的前n行](https://linux.ixfosa.top/#/notes/10-文件查看?id=head-查看文件的前n行)
+  - [tail-查看文件的后n行](https://linux.ixfosa.top/#/notes/10-文件查看?id=tail-查看文件的后n行)
+  - [more-显示文本文件内容](https://linux.ixfosa.top/#/notes/10-文件查看?id=more-显示文本文件内容)
+  - [less-分页显示工具](https://linux.ixfosa.top/#/notes/10-文件查看?id=less-分页显示工具)
+
++ 
 
 
 
