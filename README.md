@@ -38,7 +38,15 @@
   + [其他方式](http://linux.ixfosa.top/#/notes/06-帮助获取?id=其他方式)
 - [常用命令](http://linux.ixfosa.top/#/07-常用命令)
 - [其他命令](http://linux.ixfosa.top/#/notes/08-其他命令)
+  + [install-复制文件和设置属性](http://linux.ixfosa.top/#/notes/08-其他命令?id=install-复制文件和设置属性)
+  + [mktemp-建立暂存文件](http://linux.ixfosa.top/#/notes/08-其他命令?id=mktemp-建立暂存文件)
 - [目录管理](http://linux.ixfosa.top/#/notes/09-目录管理)
+  + [pwd-显示当前工作目录](http://linux.ixfosa.top/#/notes/09-目录管理?id=pwd-显示当前工作目录)
+  + [cd-切换目录](http://linux.ixfosa.top/#/notes/09-目录管理?id=cd-切换目录)
+  + [ls-列出指定目录下的内容](http://linux.ixfosa.top/#/notes/09-目录管理?id=ls-列出指定目录下的内容)
+  + [mkdir-创建目录](http://linux.ixfosa.top/#/notes/09-目录管理?id=mkdir-创建目录)
+  + [rmdir-删除空目录](http://linux.ixfosa.top/#/notes/09-目录管理?id=rmdir-删除空目录)
+- 
 
 
 
