@@ -2,7 +2,7 @@
 
 ## [C语言中文网 Linux](http://c.biancheng.net/linux_tutorial)
 
-## [Filesystem Hierarchy Standard](Filesystem Hierarchy Standard)
+## [Filesystem Hierarchy Standard](https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.html)
 
 ## [Linux命令大全(手册)](https://www.linuxcool.com/)
 
