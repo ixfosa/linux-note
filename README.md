@@ -63,7 +63,16 @@
   - [more-显示文本文件内容](https://linux.ixfosa.top/#/notes/10-文件查看?id=more-显示文本文件内容)
   - [less-分页显示工具](https://linux.ixfosa.top/#/notes/10-文件查看?id=less-分页显示工具)
 
-+ 
++ [文件管理](http://linux.ixfosa.top/#/notes/11-文件管理)
+
+  - [file-识别文件类型](http://linux.ixfosa.top/#/notes/11-文件管理?id=file-识别文件类型)
+  - [stat-显示文件状态信息](http://linux.ixfosa.top/#/notes/11-文件管理?id=stat-显示文件状态信息)
+  - [touch-修改时间戳或创建文件](http://linux.ixfosa.top/#/notes/11-文件管理?id=touch-修改时间戳或创建文件)
+  - [cp-复制文件或目录](http://linux.ixfosa.top/#/notes/11-文件管理?id=cp-复制文件或目录)
+  - [rm-移除文件或目录](http://linux.ixfosa.top/#/notes/11-文件管理?id=rm-移除文件或目录)
+  - [mv-移动或改名文件](http://linux.ixfosa.top/#/notes/11-文件管理?id=mv-移动或改名文件)
+
+  
 
 
 
