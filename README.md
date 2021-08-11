@@ -118,6 +118,12 @@
 
 + [组的管理](http://linux.ixfosa.top/#/notes/17-组的管理)
 
+  + [groupadd-添加用户组](http://linux.ixfosa.top/#/notes/17-组的管理?id=groupadd-添加用户组)
+  + [groupmod-修改用户组](http://linux.ixfosa.top/#/notes/17-组的管理?id=groupmod-修改用户组)
+  + [groupdel-刪除用户组](http://linux.ixfosa.top/#/notes/17-组的管理?id=groupdel-刪除用户组)
+  + [gpasswd-管理用户组](http://linux.ixfosa.top/#/notes/17-组的管理?id=gpasswd-管理用户组)
+  + [newgrp-切换用户的有效组](http://linux.ixfosa.top/#/notes/17-组的管理?id=newgrp-切换用户的有效组)
+
 + [权限管理](http://linux.ixfosa.top/#/notes/18-权限管理)
 
   
