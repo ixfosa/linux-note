@@ -104,6 +104,18 @@
 
 + [用户管理](http://linux.ixfosa.top/#/notes/16-用户管理)
 
+  + [useradd-创建用户](http://linux.ixfosa.top/#/notes/16-用户管理?id=useradd-创建用户)
+  + [userdel-删除用户](http://linux.ixfosa.top/#/notes/16-用户管理?id=userdel-删除用户)
+  + [usermod-修改用户信息](http://linux.ixfosa.top/#/notes/16-用户管理?id=usermod-修改用户信息)
+  + [passwd-修改用户密码](http://linux.ixfosa.top/#/notes/16-用户管理?id=passwd-修改用户密码)
+  + [id-查看用户的UID和GID](http://linux.ixfosa.top/#/notes/16-用户管理?id=id-查看用户的uid和gid)
+  + [su-用户间切换](http://linux.ixfosa.top/#/notes/16-用户管理?id=su-用户间切换)
+  + [chage-修改用户密码状态](http://linux.ixfosa.top/#/notes/16-用户管理?id=chage-修改用户密码状态)
+  + [whoami和who am i](http://linux.ixfosa.top/#/notes/16-用户管理?id=whoami和who-am-i)
+  + [chsh-更改登录shell](http://linux.ixfosa.top/#/notes/16-用户管理?id=chsh-更改登录shell)
+  + [finger-显示用户相关信息](http://linux.ixfosa.top/#/notes/16-用户管理?id=finger-显示用户相关信息)
+  + [chfn-更改个人信息](http://linux.ixfosa.top/#/notes/16-用户管理?id=chfn-更改个人信息)
+
 + [组的管理](http://linux.ixfosa.top/#/notes/17-组的管理)
 
 + [权限管理](http://linux.ixfosa.top/#/notes/18-权限管理)
