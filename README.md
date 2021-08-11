@@ -72,6 +72,31 @@
   - [rm-移除文件或目录](http://linux.ixfosa.top/#/notes/11-文件管理?id=rm-移除文件或目录)
   - [mv-移动或改名文件](http://linux.ixfosa.top/#/notes/11-文件管理?id=mv-移动或改名文件)
 
++ [bash特性](http://linux.ixfosa.top/#/notes/12-bash特性)
+
+  - [history-命令历史](http://linux.ixfosa.top/#/notes/12-bash特性?id=history-命令历史)
+  - [tab-命令补全](http://linux.ixfosa.top/#/notes/12-bash特性?id=tab-命令补全)
+  - [tab-路径补全](http://linux.ixfosa.top/#/notes/12-bash特性?id=tab-路径补全)
+  - [$?-命令的执行结果状态](http://linux.ixfosa.top/#/notes/12-bash特性?id=-命令的执行结果状态)
+  - [引用](http://linux.ixfosa.top/#/notes/12-bash特性?id=引用)
+  - [快捷键](http://linux.ixfosa.top/#/notes/12-bash特性?id=快捷键)
+  - [{}-命令行展开](http://linux.ixfosa.top/#/notes/12-bash特性?id=-命令行展开)
+  - [globbing-文件名通配](http://linux.ixfosa.top/#/notes/12-bash特性?id=globbing-文件名通配)
+  - [命令hash](http://linux.ixfosa.top/#/notes/12-bash特性?id=命令hash)
+  - [多命令执行](http://linux.ixfosa.top/#/notes/12-bash特性?id=多命令执行)
+
++ [IO重定向](http://linux.ixfosa.top/#/notes/13-IO重定向)
+
++ [pipe管道](http://linux.ixfosa.top/#/notes/14-pipe管道)
+
++ [用户和组](http://linux.ixfosa.top/#/notes/15-用户和组)
+
++ [用户管理](http://linux.ixfosa.top/#/notes/16-用户管理)
+
++ [组的管理](http://linux.ixfosa.top/#/notes/17-组的管理)
+
++ [权限管理](http://linux.ixfosa.top/#/notes/18-权限管理)
+
   
 
 
