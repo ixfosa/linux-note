@@ -91,6 +91,17 @@
 
 + [用户和组](http://linux.ixfosa.top/#/notes/15-用户和组)
 
+  + [用户](http://linux.ixfosa.top/#/notes/15-用户和组?id=用户)
+  + [组](http://linux.ixfosa.top/#/notes/15-用户和组?id=组)
+  + [认证信息](http://linux.ixfosa.top/#/notes/15-用户和组?id=认证信息)
+  + [名称解析-passwd](http://linux.ixfosa.top/#/notes/15-用户和组?id=名称解析-passwd)
+  + [影子文件-shadow](http://linux.ixfosa.top/#/notes/15-用户和组?id=影子文件-shadow)
+  + [名称解析-group](http://linux.ixfosa.top/#/notes/15-用户和组?id=名称解析-group)
+  + [影子文件-gshadow](http://linux.ixfosa.top/#/notes/15-用户和组?id=影子文件-gshadow)
+  + [login.defs-用户基本属性默认设置文件](http://linux.ixfosa.top/#/notes/15-用户和组?id=logindefs-用户基本属性默认设置文件)
+  + [pwck-验证系统认证文件](http://linux.ixfosa.top/#/notes/15-用户和组?id=pwck-验证系统认证文件)
+  + [grpck-验证组文件的完整性](http://linux.ixfosa.top/#/notes/15-用户和组?id=grpck-验证组文件的完整性)
+
 + [用户管理](http://linux.ixfosa.top/#/notes/16-用户管理)
 
 + [组的管理](http://linux.ixfosa.top/#/notes/17-组的管理)
