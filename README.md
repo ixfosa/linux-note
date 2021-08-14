@@ -71,7 +71,6 @@
   - [cp-复制文件或目录](http://linux.ixfosa.top/#/notes/11-文件管理?id=cp-复制文件或目录)
   - [rm-移除文件或目录](http://linux.ixfosa.top/#/notes/11-文件管理?id=rm-移除文件或目录)
   - [mv-移动或改名文件](http://linux.ixfosa.top/#/notes/11-文件管理?id=mv-移动或改名文件)
-
 + [bash特性](http://linux.ixfosa.top/#/notes/12-bash特性)
 
   - [history-命令历史](http://linux.ixfosa.top/#/notes/12-bash特性?id=history-命令历史)
@@ -84,11 +83,8 @@
   - [globbing-文件名通配](http://linux.ixfosa.top/#/notes/12-bash特性?id=globbing-文件名通配)
   - [命令hash](http://linux.ixfosa.top/#/notes/12-bash特性?id=命令hash)
   - [多命令执行](http://linux.ixfosa.top/#/notes/12-bash特性?id=多命令执行)
-
 + [IO重定向](http://linux.ixfosa.top/#/notes/13-IO重定向)
-
 + [pipe管道](http://linux.ixfosa.top/#/notes/14-pipe管道)
-
 + [用户和组](http://linux.ixfosa.top/#/notes/15-用户和组)
 
   + [用户](http://linux.ixfosa.top/#/notes/15-用户和组?id=用户)
@@ -101,7 +97,6 @@
   + [login.defs-用户基本属性默认设置文件](http://linux.ixfosa.top/#/notes/15-用户和组?id=logindefs-用户基本属性默认设置文件)
   + [pwck-验证系统认证文件](http://linux.ixfosa.top/#/notes/15-用户和组?id=pwck-验证系统认证文件)
   + [grpck-验证组文件的完整性](http://linux.ixfosa.top/#/notes/15-用户和组?id=grpck-验证组文件的完整性)
-
 + [用户管理](http://linux.ixfosa.top/#/notes/16-用户管理)
 
   + [useradd-创建用户](http://linux.ixfosa.top/#/notes/16-用户管理?id=useradd-创建用户)
@@ -115,7 +110,6 @@
   + [chsh-更改登录shell](http://linux.ixfosa.top/#/notes/16-用户管理?id=chsh-更改登录shell)
   + [finger-显示用户相关信息](http://linux.ixfosa.top/#/notes/16-用户管理?id=finger-显示用户相关信息)
   + [chfn-更改个人信息](http://linux.ixfosa.top/#/notes/16-用户管理?id=chfn-更改个人信息)
-
 + [组的管理](http://linux.ixfosa.top/#/notes/17-组的管理)
 
   + [groupadd-添加用户组](http://linux.ixfosa.top/#/notes/17-组的管理?id=groupadd-添加用户组)
@@ -123,10 +117,15 @@
   + [groupdel-刪除用户组](http://linux.ixfosa.top/#/notes/17-组的管理?id=groupdel-刪除用户组)
   + [gpasswd-管理用户组](http://linux.ixfosa.top/#/notes/17-组的管理?id=gpasswd-管理用户组)
   + [newgrp-切换用户的有效组](http://linux.ixfosa.top/#/notes/17-组的管理?id=newgrp-切换用户的有效组)
-
 + [权限管理](http://linux.ixfosa.top/#/notes/18-权限管理)
+  - [权限管理概述](http://linux.ixfosa.top/#/notes/18-权限管理?id=权限管理概述)
+  - [chmod-改变文件或目录权限](http://linux.ixfosa.top/#/notes/18-权限管理?id=chmod-改变文件或目录权限)
+  - [chown-修改属主和属组](http://linux.ixfosa.top/#/notes/18-权限管理?id=chown-修改属主和属组)
+  - [chgrp-修改文件和目录的属组](http://linux.ixfosa.top/#/notes/18-权限管理?id=chgrp-修改文件和目录的属组)
+  - [umask-设定权限掩码](http://linux.ixfosa.top/#/notes/18-权限管理?id=umask-设定权限掩码)
+  - [特殊权限](http://linux.ixfosa.top/#/notes/18-权限管理?id=特殊权限)
 
-  
+
 
 
 
