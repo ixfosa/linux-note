@@ -133,7 +133,7 @@
   
   - [额外赋权机制](http://linux.ixfosa.top/#/notes/18-权限管理?id=额外赋权机制)
   
-  - - [getfacl–显示文件或目录的ACL](http://linux.ixfosa.top/#/notes/18-权限管理?id=getfacl显示文件或目录的acl)
+    - [getfacl–显示文件或目录的ACL](http://linux.ixfosa.top/#/notes/18-权限管理?id=getfacl显示文件或目录的acl)
     - [setfacl–设置文件ACL规则](http://linux.ixfosa.top/#/notes/18-权限管理?id=setfacl设置文件acl规则)
   
   - [chattr-修改文件系统的权限属性](http://linux.ixfosa.top/#/notes/18-权限管理?id=chattr-修改文件系统的权限属性)
