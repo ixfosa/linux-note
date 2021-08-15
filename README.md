@@ -6,9 +6,9 @@
 
 + [马哥教育](https://www.magedu.com/)
 
-## [在线阅读](http://linux.ixfosa.top/#/)
+### [在线阅读](http://linux.ixfosa.top/#/)
 
-## [开源协议](http://linux.ixfosa.top/#/notes/01-%E5%BC%80%E6%BA%90%E5%8D%8F%E8%AE%AE)
+### [开源协议](http://linux.ixfosa.top/#/notes/01-%E5%BC%80%E6%BA%90%E5%8D%8F%E8%AE%AE)
 
 - [GNU GPL](http://linux.ixfosa.top/#/notes/01-开源协议?id=gnu-gpl)
 - [GNU LGPL](http://linux.ixfosa.top/#/notes/01-开源协议?id=gnu-lgpl)
@@ -16,14 +16,14 @@
 - [MIT](http://linux.ixfosa.top/#/notes/01-开源协议?id=mit)
 - [Apache](http://linux.ixfosa.top/#/notes/01-开源协议?id=apache)
 
-## [哲学思想](http://linux.ixfosa.top/#/notes/02-哲学思想)
+### [哲学思想](http://linux.ixfosa.top/#/notes/02-哲学思想)
 
 - [终端简述](http://linux.ixfosa.top/#/notes/03-终端简述)
-  + [终端](http://linux.ixfosa.top/#/notes/03-终端简述?id=终端)
-  + [终端设备](http://linux.ixfosa.top/#/notes/03-终端简述?id=终端设备)
-  + [CLI接口](http://linux.ixfosa.top/#/notes/03-终端简述?id=cli接口)
+- [终端](http://linux.ixfosa.top/#/notes/03-终端简述?id=终端)
+- [终端设备](http://linux.ixfosa.top/#/notes/03-终端简述?id=终端设备)
+- [CLI接口](http://linux.ixfosa.top/#/notes/03-终端简述?id=cli接口)
 
-## [层次结构](http://linux.ixfosa.top/#/notes/04-层次结构)
+### [层次结构](http://linux.ixfosa.top/#/notes/04-层次结构)
 
 + [基本概述](http://linux.ixfosa.top/#/notes/04-层次结构?id=基本概述)
 + [文件类型](http://linux.ixfosa.top/#/notes/04-层次结构?id=文件类型)
@@ -31,14 +31,14 @@
 + [程序组成](http://linux.ixfosa.top/#/notes/04-层次结构?id=程序组成)
 + [文件系统层次标准](http://linux.ixfosa.top/#/notes/04-层次结构?id=文件系统层次标准)
 
-## [命令语法](http://linux.ixfosa.top/#/notes/05-命令语法)
+### [命令语法](http://linux.ixfosa.top/#/notes/05-命令语法)
 
 + [命令的语法通用格式](http://linux.ixfosa.top/#/notes/05-命令语法?id=命令的语法通用格式)
 + [命令 COMMAND](http://linux.ixfosa.top/#/notes/05-命令语法?id=命令-command)
 + [选项 OPTIONS](http://linux.ixfosa.top/#/notes/05-命令语法?id=选项-options)
 + [参数 ARGUMENTS](http://linux.ixfosa.top/#/notes/05-命令语法?id=参数-arguments)
 
-## [帮助获取](http://linux.ixfosa.top/#/notes/06-帮助获取)
+### [帮助获取](http://linux.ixfosa.top/#/notes/06-帮助获取)
 
 + [内部命令](http://linux.ixfosa.top/#/notes/06-帮助获取?id=内部命令)
 + [外部命令](http://linux.ixfosa.top/#/notes/06-帮助获取?id=外部命令)
@@ -46,7 +46,7 @@
 + [info COMMAND](http://linux.ixfosa.top/#/notes/06-帮助获取?id=info-command)
 + [其他方式](http://linux.ixfosa.top/#/notes/06-帮助获取?id=其他方式)
 
-## [常用命令](https://linux.ixfosa.top/#/notes/07-常用命令)
+### [常用命令](https://linux.ixfosa.top/#/notes/07-常用命令)
 
 - [系统的关机、重启以及登出](https://linux.ixfosa.top/#/notes/07-常用命令?id=系统的关机、重启以及登出)
 - [日期相关](https://linux.ixfosa.top/#/notes/07-常用命令?id=日期相关)
@@ -58,12 +58,12 @@
 - [alias，unalias-命令别名](https://linux.ixfosa.top/#/notes/07-常用命令?id=alias，unalias-命令别名)
 - [echo-回显](https://linux.ixfosa.top/#/notes/07-常用命令?id=echo-回显)
 
-## [其他命令](http://linux.ixfosa.top/#/notes/08-其他命令)
+### [其他命令](http://linux.ixfosa.top/#/notes/08-其他命令)
 
 + [install-复制文件和设置属性](http://linux.ixfosa.top/#/notes/08-其他命令?id=install-复制文件和设置属性)
 + [mktemp-建立暂存文件](http://linux.ixfosa.top/#/notes/08-其他命令?id=mktemp-建立暂存文件)
 
-## [目录管理](http://linux.ixfosa.top/#/notes/09-目录管理)
+### [目录管理](http://linux.ixfosa.top/#/notes/09-目录管理)
 
 + [pwd-显示当前工作目录](http://linux.ixfosa.top/#/notes/09-目录管理?id=pwd-显示当前工作目录)
 + [cd-切换目录](http://linux.ixfosa.top/#/notes/09-目录管理?id=cd-切换目录)
@@ -71,7 +71,7 @@
 + [mkdir-创建目录](http://linux.ixfosa.top/#/notes/09-目录管理?id=mkdir-创建目录)
 + [rmdir-删除空目录](http://linux.ixfosa.top/#/notes/09-目录管理?id=rmdir-删除空目录)
 
-## [文件查看](https://linux.ixfosa.top/#/notes/10-文件查看)
+### [文件查看](https://linux.ixfosa.top/#/notes/10-文件查看)
 
 - [cat-显示文件内容](https://linux.ixfosa.top/#/notes/10-文件查看?id=cat-显示文件内容)
 - [tac-与cat输出相反](https://linux.ixfosa.top/#/notes/10-文件查看?id=tac-与cat输出相反)
@@ -80,7 +80,7 @@
 - [more-显示文本文件内容](https://linux.ixfosa.top/#/notes/10-文件查看?id=more-显示文本文件内容)
 - [less-分页显示工具](https://linux.ixfosa.top/#/notes/10-文件查看?id=less-分页显示工具)
 
-## [文件管理](http://linux.ixfosa.top/#/notes/11-文件管理)
+### [文件管理](http://linux.ixfosa.top/#/notes/11-文件管理)
 
 - [file-识别文件类型](http://linux.ixfosa.top/#/notes/11-文件管理?id=file-识别文件类型)
 - [stat-显示文件状态信息](http://linux.ixfosa.top/#/notes/11-文件管理?id=stat-显示文件状态信息)
@@ -89,7 +89,7 @@
 - [rm-移除文件或目录](http://linux.ixfosa.top/#/notes/11-文件管理?id=rm-移除文件或目录)
 - [mv-移动或改名文件](http://linux.ixfosa.top/#/notes/11-文件管理?id=mv-移动或改名文件)
 
-## [bash特性](http://linux.ixfosa.top/#/notes/12-bash特性)
+### [bash特性](http://linux.ixfosa.top/#/notes/12-bash特性)
 
 - [history-命令历史](http://linux.ixfosa.top/#/notes/12-bash特性?id=history-命令历史)
 - [tab-命令补全](http://linux.ixfosa.top/#/notes/12-bash特性?id=tab-命令补全)
@@ -102,11 +102,11 @@
 - [命令hash](http://linux.ixfosa.top/#/notes/12-bash特性?id=命令hash)
 - [多命令执行](http://linux.ixfosa.top/#/notes/12-bash特性?id=多命令执行)
 
-## [IO重定向](http://linux.ixfosa.top/#/notes/13-IO重定向)
+### [IO重定向](http://linux.ixfosa.top/#/notes/13-IO重定向)
 
-## [pipe管道](http://linux.ixfosa.top/#/notes/14-pipe管道)
+### [pipe管道](http://linux.ixfosa.top/#/notes/14-pipe管道)
 
-## [用户和组](http://linux.ixfosa.top/#/notes/15-用户和组)
+### [用户和组](http://linux.ixfosa.top/#/notes/15-用户和组)
 
 + [用户](http://linux.ixfosa.top/#/notes/15-用户和组?id=用户)
 + [组](http://linux.ixfosa.top/#/notes/15-用户和组?id=组)
@@ -119,7 +119,7 @@
 + [pwck-验证系统认证文件](http://linux.ixfosa.top/#/notes/15-用户和组?id=pwck-验证系统认证文件)
 + [grpck-验证组文件的完整性](http://linux.ixfosa.top/#/notes/15-用户和组?id=grpck-验证组文件的完整性)
 
-## [用户管理](http://linux.ixfosa.top/#/notes/16-用户管理)
+### [用户管理](http://linux.ixfosa.top/#/notes/16-用户管理)
 
 + [useradd-创建用户](http://linux.ixfosa.top/#/notes/16-用户管理?id=useradd-创建用户)
 + [userdel-删除用户](http://linux.ixfosa.top/#/notes/16-用户管理?id=userdel-删除用户)
@@ -133,7 +133,7 @@
 + [finger-显示用户相关信息](http://linux.ixfosa.top/#/notes/16-用户管理?id=finger-显示用户相关信息)
 + [chfn-更改个人信息](http://linux.ixfosa.top/#/notes/16-用户管理?id=chfn-更改个人信息)
 
-## [组的管理](http://linux.ixfosa.top/#/notes/17-组的管理)
+### [组的管理](http://linux.ixfosa.top/#/notes/17-组的管理)
 
 + [groupadd-添加用户组](http://linux.ixfosa.top/#/notes/17-组的管理?id=groupadd-添加用户组)
 + [groupmod-修改用户组](http://linux.ixfosa.top/#/notes/17-组的管理?id=groupmod-修改用户组)
@@ -141,7 +141,7 @@
 + [gpasswd-管理用户组](http://linux.ixfosa.top/#/notes/17-组的管理?id=gpasswd-管理用户组)
 + [newgrp-切换用户的有效组](http://linux.ixfosa.top/#/notes/17-组的管理?id=newgrp-切换用户的有效组)
 
-## [权限管理](http://linux.ixfosa.top/#/notes/18-权限管理)
+### [权限管理](http://linux.ixfosa.top/#/notes/18-权限管理)
 
 - [权限管理概述](http://linux.ixfosa.top/#/notes/18-权限管理?id=权限管理概述)
 
