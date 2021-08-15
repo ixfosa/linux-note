@@ -143,28 +143,28 @@
 
 ### [权限管理](http://linux.ixfosa.top/#/notes/18-权限管理)
 
-- [权限管理概述](http://linux.ixfosa.top/#/notes/18-权限管理?id=权限管理概述)
++ [权限管理概述](http://linux.ixfosa.top/#/notes/18-权限管理?id=权限管理概述)
 
-- [chmod-改变文件或目录权限](http://linux.ixfosa.top/#/notes/18-权限管理?id=chmod-改变文件或目录权限)
++ [chmod-改变文件或目录权限](http://linux.ixfosa.top/#/notes/18-权限管理?id=chmod-改变文件或目录权限)
 
-- [chown-修改属主和属组](http://linux.ixfosa.top/#/notes/18-权限管理?id=chown-修改属主和属组)
++ [chown-修改属主和属组](http://linux.ixfosa.top/#/notes/18-权限管理?id=chown-修改属主和属组)
 
-- [chgrp-修改文件和目录的属组](http://linux.ixfosa.top/#/notes/18-权限管理?id=chgrp-修改文件和目录的属组)
++ [chgrp-修改文件和目录的属组](http://linux.ixfosa.top/#/notes/18-权限管理?id=chgrp-修改文件和目录的属组)
 
-- [umask-设定权限掩码](http://linux.ixfosa.top/#/notes/18-权限管理?id=umask-设定权限掩码)
++ [umask-设定权限掩码](http://linux.ixfosa.top/#/notes/18-权限管理?id=umask-设定权限掩码)
 
-- [特殊权限](http://linux.ixfosa.top/#/notes/18-权限管理?id=特殊权限)
++ [特殊权限](http://linux.ixfosa.top/#/notes/18-权限管理?id=特殊权限)
 
-- [额外赋权机制](http://linux.ixfosa.top/#/notes/18-权限管理?id=额外赋权机制)
++ [额外赋权机制](http://linux.ixfosa.top/#/notes/18-权限管理?id=额外赋权机制)
 
   - [getfacl–显示文件或目录的ACL](http://linux.ixfosa.top/#/notes/18-权限管理?id=getfacl显示文件或目录的acl)
   - [setfacl–设置文件ACL规则](http://linux.ixfosa.top/#/notes/18-权限管理?id=setfacl设置文件acl规则)
 
-- [chattr-修改文件系统的权限属性](http://linux.ixfosa.top/#/notes/18-权限管理?id=chattr-修改文件系统的权限属性)
++ [chattr-修改文件系统的权限属性](http://linux.ixfosa.top/#/notes/18-权限管理?id=chattr-修改文件系统的权限属性)
 
-- [lsatt-查看文件系统属性](http://linux.ixfosa.top/#/notes/18-权限管理?id=lsatt-查看文件系统属性)
++ [lsatt-查看文件系统属性](http://linux.ixfosa.top/#/notes/18-权限管理?id=lsatt-查看文件系统属性)
 
-- [权限对指令执行的影响](http://linux.ixfosa.top/#/notes/18-权限管理?id=权限对指令执行的影响)
++ [权限对指令执行的影响](http://linux.ixfosa.top/#/notes/18-权限管理?id=权限对指令执行的影响)
 
 
 
