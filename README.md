@@ -166,7 +166,21 @@
 
 + [权限对指令执行的影响](http://linux.ixfosa.top/#/notes/18-权限管理?id=权限对指令执行的影响)
 
+### [文本处理](http://linux.ixfosa.top/#/notes/19-%E6%96%87%E6%9C%AC%E5%A4%84%E7%90%86)
 
+- [文本处理工具简介](http://linux.ixfosa.top/#/notes/19-文本处理?id=文本处理工具简介)
+- [基本正则表达式元字符](http://linux.ixfosa.top/#/notes/19-文本处理?id=基本正则表达式元字符)
+- [扩展正则表达式元字符](http://linux.ixfosa.top/#/notes/19-文本处理?id=扩展正则表达式元字符)
+- [grep-文本搜索工具（基本正则）](http://linux.ixfosa.top/#/notes/19-文本处理?id=grep-文本搜索工具（基本正则）)
+- [egrep-文本搜索工具（扩展正则）](http://linux.ixfosa.top/#/notes/19-文本处理?id=egrep-文本搜索工具（扩展正则）)
+- [wc- 统计文件的字节数、字数、行数](http://linux.ixfosa.top/#/notes/19-文本处理?id=wc-统计文件的字节数、字数、行数)
+- [cut-截取文件中的每一行中](http://linux.ixfosa.top/#/notes/19-文本处理?id=cut-截取文件中的每一行中)
+- [sort-排序文件并输出](http://linux.ixfosa.top/#/notes/19-文本处理?id=sort-排序文件并输出)
+- [uniq-报告或移除重复的行](http://linux.ixfosa.top/#/notes/19-文本处理?id=uniq-报告或移除重复的行)
+- [diff-比较文件的差异](http://linux.ixfosa.top/#/notes/19-文本处理?id=diff-比较文件的差异)
+- [patch-向文件打补丁](http://linux.ixfosa.top/#/notes/19-文本处理?id=patch-向文件打补丁)
+- [sed](http://linux.ixfosa.top/#/notes/19-文本处理?id=sed)
+- [awk](http://linux.ixfosa.top/#/notes/19-文本处理?id=awk)
 
 
 
