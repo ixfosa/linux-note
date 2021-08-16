@@ -184,6 +184,9 @@
 
 ### [文件查找](http://linux.ixfosa.top/#/notes/20-%E6%96%87%E4%BB%B6%E6%9F%A5%E6%89%BE)
 
+- [locate-快速查找文件或目录](http://linux.ixfosa.top/#/notes/20-文件查找?id=locate-快速查找文件或目录)
+- [find-实时查找和搜索文件](http://linux.ixfosa.top/#/notes/20-文件查找?id=find-实时查找和搜索文件)
+
 
 
 
