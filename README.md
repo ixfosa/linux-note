@@ -182,6 +182,8 @@
 - [sed](http://linux.ixfosa.top/#/notes/19-文本处理?id=sed)
 - [awk](http://linux.ixfosa.top/#/notes/19-文本处理?id=awk)
 
+### [文件查找](http://linux.ixfosa.top/#/notes/20-%E6%96%87%E4%BB%B6%E6%9F%A5%E6%89%BE)
+
 
 
 
